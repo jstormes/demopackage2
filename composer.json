@@ -1,0 +1,10 @@
+{
+    "name": "jstormes/demopackage2",
+    "authors": [
+        {
+            "name": "James Stormes",
+            "email": "jstormes@stormes.net"
+        }
+    ],
+    "require": {}
+}
