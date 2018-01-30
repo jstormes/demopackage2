@@ -1,3 +1,4 @@
+<?php
 class DemoClass
 {
     public function HelloWorld()
