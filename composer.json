@@ -8,7 +8,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "jstormes\\demopackage1\\": "/"
+            "jstormes\\demopackage2\\": "/"
         }
     },
     "require": {}
