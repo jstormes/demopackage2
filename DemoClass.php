@@ -1,6 +1,6 @@
 <?php
 
-namespace jstormes\demopackage1;
+namespace jstormes\demopackage2;
 
 class DemoClass
 {
